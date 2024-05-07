@@ -1,0 +1,324 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "bun@latest": {
+      "last_modified": "2024-04-19T17:36:04-04:00",
+      "resolved": "github:NixOS/nixpkgs/92d295f588631b0db2da509f381b4fb1e74173c5#bun",
+      "source": "devbox-search",
+      "version": "1.1.4",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/fiwjsimc76cj65jkv5igazikqkd8zcns-bun-1.1.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/fiwjsimc76cj65jkv5igazikqkd8zcns-bun-1.1.4"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/vkhqs4p1clbarknbnjbk2riphqlrrx30-bun-1.1.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/vkhqs4p1clbarknbnjbk2riphqlrrx30-bun-1.1.4"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/xrpxfnbpqpzls14950ngwamxr7v6paa1-bun-1.1.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/xrpxfnbpqpzls14950ngwamxr7v6paa1-bun-1.1.4"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/899zg048mw6cwc8z87aky9hsy61iz612-bun-1.1.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/899zg048mw6cwc8z87aky9hsy61iz612-bun-1.1.4"
+        }
+      }
+    },
+    "nodePackages.typescript-language-server@latest": {
+      "last_modified": "2024-04-22T13:05:09-04:00",
+      "resolved": "github:NixOS/nixpkgs/1e1dc66fe68972a76679644a5577828b6a7e8be4#nodePackages.typescript-language-server",
+      "source": "devbox-search",
+      "version": "4.3.3",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/84p5hra9sb9vqf935bq4my96104hkd12-typescript-language-server-4.3.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/84p5hra9sb9vqf935bq4my96104hkd12-typescript-language-server-4.3.3"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/5xnmdhq4nyjs4f4g79k5pdq7nvfwdlvk-typescript-language-server-4.3.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/5xnmdhq4nyjs4f4g79k5pdq7nvfwdlvk-typescript-language-server-4.3.3"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/zqbbyhvsmjjaj2rz05pyifx7n18sksqg-typescript-language-server-4.3.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/zqbbyhvsmjjaj2rz05pyifx7n18sksqg-typescript-language-server-4.3.3"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/9f83a2nl0vg99arganc096fiwrl2rpf0-typescript-language-server-4.3.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/9f83a2nl0vg99arganc096fiwrl2rpf0-typescript-language-server-4.3.3"
+        }
+      }
+    },
+    "nodePackages.typescript@latest": {
+      "last_modified": "2023-06-21T20:11:00-04:00",
+      "resolved": "github:NixOS/nixpkgs/3fb3ce0b6b84d3b4e7b49e142da9c5764b563058#nodePackages.typescript",
+      "source": "devbox-search",
+      "version": "5.1.3",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/6nil4nii0787n6ccyybnibsbwp1zmfgq-typescript-5.1.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/6nil4nii0787n6ccyybnibsbwp1zmfgq-typescript-5.1.3"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/6w0jag5a5lqwjkczyy13z1x3k4m3zbjf-typescript-5.1.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/6w0jag5a5lqwjkczyy13z1x3k4m3zbjf-typescript-5.1.3"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/dkcajc1qkwcm3amia162jy0163yivfl5-typescript-5.1.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/dkcajc1qkwcm3amia162jy0163yivfl5-typescript-5.1.3"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/9k2cibi9ndyx6r1i8wkjvb3xvhcq6hgn-typescript-5.1.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/9k2cibi9ndyx6r1i8wkjvb3xvhcq6hgn-typescript-5.1.3"
+        }
+      }
+    },
+    "nodePackages.vscode-langservers-extracted@latest": {
+      "last_modified": "2023-06-14T06:04:00-04:00",
+      "resolved": "github:NixOS/nixpkgs/6d1d80a232a355a65dc4d3bfea1f108e8dac1340#nodePackages.vscode-langservers-extracted",
+      "source": "devbox-search",
+      "version": "4.7.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ljklc45z2xi01ynfbb811wqz0z566z3d-vscode-langservers-extracted-4.7.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/ljklc45z2xi01ynfbb811wqz0z566z3d-vscode-langservers-extracted-4.7.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/whvhsk21my27n4x52wm6d6gycs5hncnh-vscode-langservers-extracted-4.7.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/whvhsk21my27n4x52wm6d6gycs5hncnh-vscode-langservers-extracted-4.7.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/p4ai8hp9wskcxa89qnd44m871v4qwcm1-vscode-langservers-extracted-4.7.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/p4ai8hp9wskcxa89qnd44m871v4qwcm1-vscode-langservers-extracted-4.7.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/hyzwmnq51imj9qb539k453wjn54ww1hp-vscode-langservers-extracted-4.7.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/hyzwmnq51imj9qb539k453wjn54ww1hp-vscode-langservers-extracted-4.7.0"
+        }
+      }
+    },
+    "nodejs@latest": {
+      "last_modified": "2024-04-25T03:38:28-04:00",
+      "plugin_version": "0.0.2",
+      "resolved": "github:NixOS/nixpkgs/b0d52b31f7f4d80f8bf38f0253652125579c35ff#nodejs_22",
+      "source": "devbox-search",
+      "version": "22.0.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/972dscdvkqhr81j2w1c74vlx2y4kfyzh-nodejs-22.0.0",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/z5fns5qrp1s53kys1v0bxfz2lk407773-nodejs-22.0.0-libv8"
+            }
+          ],
+          "store_path": "/nix/store/972dscdvkqhr81j2w1c74vlx2y4kfyzh-nodejs-22.0.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/6336bf8rx068rls9hw5q88bncc1baqgb-nodejs-22.0.0",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/ngvfmgm9bip87amcc522yb671a2zkpwd-nodejs-22.0.0-libv8"
+            }
+          ],
+          "store_path": "/nix/store/6336bf8rx068rls9hw5q88bncc1baqgb-nodejs-22.0.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/3776rlwv2q8fvgh6lhi44v0gxck1hkqx-nodejs-22.0.0",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/3vhll9yxmcabk6lv6yz14ixixpim5j4a-nodejs-22.0.0-libv8"
+            }
+          ],
+          "store_path": "/nix/store/3776rlwv2q8fvgh6lhi44v0gxck1hkqx-nodejs-22.0.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/nx76dx71yjni4bajdn9pshxqs38lkj29-nodejs-22.0.0",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/xakj3aq9bzxyvanpy6yfqg1ghmjjnkri-nodejs-22.0.0-libv8"
+            }
+          ],
+          "store_path": "/nix/store/nx76dx71yjni4bajdn9pshxqs38lkj29-nodejs-22.0.0"
+        }
+      }
+    },
+    "openssl_3@latest": {
+      "last_modified": "2024-04-27T15:12:38-04:00",
+      "resolved": "github:NixOS/nixpkgs/2b1f64b358f2cab62617f26b3870fd0ee375d848#openssl_3",
+      "source": "devbox-search",
+      "version": "3.0.13",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "bin",
+              "path": "/nix/store/5y3q1i03yk3p8cql50wjrdl9k78nzgxw-openssl-3.0.13-bin",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/gz5357mlp681gm7jkgccajm0yrvbs5hv-openssl-3.0.13-man",
+              "default": true
+            },
+            {
+              "name": "dev",
+              "path": "/nix/store/8l3bsfng22kwrgq3dr33dkrddc8ndhss-openssl-3.0.13-dev"
+            },
+            {
+              "name": "doc",
+              "path": "/nix/store/fi3axf4hdv0vx6sys07ghl7mv4jh64zy-openssl-3.0.13-doc"
+            },
+            {
+              "name": "out",
+              "path": "/nix/store/pd06cfk6ccypdy29jar5prrnmv3jij1q-openssl-3.0.13"
+            }
+          ],
+          "store_path": "/nix/store/5y3q1i03yk3p8cql50wjrdl9k78nzgxw-openssl-3.0.13-bin"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "bin",
+              "path": "/nix/store/45pqlim6l9xxx9r1aabcd6qz8f9mscs8-openssl-3.0.13-bin",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/ld7y1j4wgnxpir1s4d0hvjh8kdqcsmw0-openssl-3.0.13-man",
+              "default": true
+            },
+            {
+              "name": "dev",
+              "path": "/nix/store/da8kp6h1iak2pj9lah75j5dhzvx1z64d-openssl-3.0.13-dev"
+            },
+            {
+              "name": "doc",
+              "path": "/nix/store/8i8p7br33710b6jhsvmly6aj6wmmh5pr-openssl-3.0.13-doc"
+            },
+            {
+              "name": "out",
+              "path": "/nix/store/hfnrp1qvb794a8cyvf4mv85igfzdxn59-openssl-3.0.13"
+            }
+          ],
+          "store_path": "/nix/store/45pqlim6l9xxx9r1aabcd6qz8f9mscs8-openssl-3.0.13-bin"
+        }
+      }
+    }
+  }
+}
